@@ -1,0 +1,13 @@
+[project]
+name = "01-task-tracker"
+version = "0.1.0"
+description = "Simple task management CLI program"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+task = "task:main"
+
+[tool.setuptools]
+py-modules = ["task"]

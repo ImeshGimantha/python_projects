@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: 01-task-tracker
+Version: 0.1.0
+Summary: Simple task management CLI program
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
